@@ -1,0 +1,6 @@
+[submodule "Book-Recomendation-System"]
+	path = Book-Recomendation-System
+	url = https://github.com/Sepriandani/ML-Sistem-Rekomendasi-Buku.git
+[submodule "Bitcoin-Predictive-Analytics"]
+	path = Bitcoin-Predictive-Analytics
+	url = https://github.com/Sepriandani/ML-Bitcoin-Predictive-Analytics.git
