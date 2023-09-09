@@ -4,3 +4,12 @@
 [submodule "Bitcoin-Predictive-Analytics"]
 	path = Bitcoin-Predictive-Analytics
 	url = https://github.com/Sepriandani/ML-Bitcoin-Predictive-Analytics.git
+[submodule "deploy-with-tfserving"]
+	path = deploy-with-tfserving
+	url = https://github.com/Sepriandani/ML-deploy-with-tfserving.git
+[submodule "deploy-with-TensorFlow.js"]
+	path = deploy-with-TensorFlow.js
+	url = https://github.com/Sepriandani/ML-deploy-TensorFlow.js.git
+[submodule "image-classification-with-android"]
+	path = image-classification-with-android
+	url = https://github.com/Sepriandani/ML-image-classification-with-android.git
